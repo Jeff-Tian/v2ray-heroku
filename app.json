@@ -9,7 +9,7 @@
      }, 
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "4890bd47-5180-4b1c-9a5d-3ef686543112"
+       "value": "69e3a018-1862-4bc3-afff-f9a994594043"
      },
      "V2_PATH": {
        "description": "PATH路径，默认/FreeApp",
@@ -20,7 +20,7 @@
        "value": "10"
      }
   },
-  "website": "https://github.com/ki8852/v2ray-heroku",
-  "repository": "https://github.com/ki8852/v2ray-heroku",
+  "website": "https://github.com/Jeff-Tian/v2ray-heroku",
+  "repository": "https://github.com/Jeff-Tian/v2ray-heroku",
   "stack": "container"
  }
